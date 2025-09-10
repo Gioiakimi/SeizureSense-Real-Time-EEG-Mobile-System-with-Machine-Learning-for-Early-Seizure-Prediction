@@ -1,0 +1,2 @@
+# SeizureSense-Real-Time-EEG-Mobile-System-with-Machine-Learning-for-Early-Seizure-Prediction
+This project is a mobile app that collects EEG data via sensors and transfers it to a smartphone through Bluetooth for real-time analysis. Sudden spikes, slow waves, or abnormal rhythmic patterns in brainwaves are detected as potential seizure precursors, triggering alerts to both the user and caregivers to secure timely intervention.
